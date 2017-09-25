@@ -1,0 +1,34 @@
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe.config
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Form.resources
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Resources.resources
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbproj.GenerateResource.Cache
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie.Robbies-PC\AppData\Local\Temporary Projects\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe.config
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Form.resources
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Resources.resources
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbproj.GenerateResource.Cache
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe.config
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\bin\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Form.resources
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.Resources.resources
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.vbproj.GenerateResource.Cache
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.exe
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.xml
+C:\Users\Robbie\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.pdb
+C:\Users\Robbie.Robbies-PC\Documents\Visual Studio 2017\Projects\PAYDAY2BreakpointCalculator\PAYDAY2BreakpointCalculator\obj\Debug\PAYDAY2BreakpointCalculator.AboutBox.resources
