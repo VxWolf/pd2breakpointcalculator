@@ -9,7 +9,7 @@
     Dim helmetpopping As Boolean = False    'Helmet Popping skill toggle
     Dim helmetmulti As Decimal = 1          'Helmet Popping damage multiplier
     Dim gundamage As Double                 'Base Weapon Damage
-    Dim bemulti As Double = 1               'Body Expertise Multiplier
+    Dim bemulti As Decimal = 1.0            'Body Expertise Multiplier
 
     'Difficulty Panel
 
@@ -129,15 +129,15 @@
                 lblGundmgexception.Text = "You gun is harmless to enemies!"
                 lblGundmgexception.Visible = True
             End If
-            lblTrueDmg.Text = CStr(Math.Ceiling(gundamage * 512) / 512)                                     'True gun damage labels
+            lblTrueDmg.Text = CStr(gundamage * bemulti)                                                     'True gun damage labels
             lblTrueHs.Text = CStr(gundamage * helmetmulti * hsmulti)
-            tboxLB.Text = CStr(Math.Ceiling((80 * healthmulti) / gundamage))                                'Light enemies
+            tboxLB.Text = CStr(Math.Ceiling((80 * healthmulti) / (gundamage * bemulti)))                    'Light enemies
             tboxLH.Text = CStr(Math.Ceiling((80 * healthmulti) / ((gundamage * hsmulti) * helmetmulti)))
-            tboxHB.Text = CStr(Math.Ceiling((160 * healthmulti) / gundamage))                               'Heavy enemies
+            tboxHB.Text = CStr(Math.Ceiling((160 * healthmulti) / (gundamage * bemulti)))                   'Heavy enemies
             tboxHH.Text = CStr(Math.Ceiling((160 * healthmulti) / ((gundamage * hsmulti) * helmetmulti)))
-            tboxTB.Text = CStr(Math.Ceiling((300 * healthmulti) / gundamage))                               'Tasers/Medics
+            tboxTB.Text = CStr(Math.Ceiling((300 * healthmulti) / (gundamage * bemulti)))                   'Tasers/Medics
             tboxTH.Text = CStr(Math.Ceiling((300 * healthmulti) / ((gundamage * hsmulti) * helmetmulti)))
-            tboxCB.Text = CStr(Math.Ceiling((600 * healthmulti) / gundamage))                               'Cloakers
+            tboxCB.Text = CStr(Math.Ceiling((600 * healthmulti) / (gundamage * bemulti)))                   'Cloakers
             tboxCH.Text = CStr(Math.Ceiling((600 * healthmulti) / ((gundamage * hsclkmulti) * helmetmulti)))
             tboxBB.Text = CStr(Math.Ceiling((2000 * healthmulti) / gundamage))                              'Bulldozers
             tboxBH.Text = CStr(Math.Ceiling((2000 * healthmulti) / ((gundamage * hsdzrmulti) * helmetmulti)))
@@ -176,5 +176,21 @@
 
     Private Sub AboutToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutToolStripMenuItem.Click
         AboutBox.Show()
+    End Sub
+
+    'Body Expertise Menu
+    Private Sub rbtnBEoff_CheckedChanged(sender As Object, e As EventArgs) Handles rbtnBEoff.CheckedChanged
+        bemulti = 1
+        Call tboxDamage_TextChanged(sender, e)
+    End Sub
+
+    Private Sub rbtnBEbasic_CheckedChanged(sender As Object, e As EventArgs) Handles rbtnBEbasic.CheckedChanged
+        bemulti = 1.3
+        Call tboxDamage_TextChanged(sender, e)
+    End Sub
+
+    Private Sub rbtnBEace_CheckedChanged(sender As Object, e As EventArgs) Handles rbtnBEace.CheckedChanged
+        bemulti = 1.9
+        Call tboxDamage_TextChanged(sender, e)
     End Sub
 End Class
